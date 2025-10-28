@@ -1,0 +1,7 @@
+2025-10-28 23:28:35,465 - __main__ - INFO - Redirect bot started. Will resend message every 12 hours per user...
+2025-10-28 23:28:36,801 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8257414396:AAHM3STzsElX-rfvtl1-HmKLj-qCszUXfuM/getMe "HTTP/1.1 200 OK"
+2025-10-28 23:28:37,038 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8257414396:AAHM3STzsElX-rfvtl1-HmKLj-qCszUXfuM/deleteWebhook "HTTP/1.1 200 OK"
+2025-10-28 23:28:37,045 - telegram.ext.Application - INFO - Application started
+2025-10-28 23:28:46,076 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8257414396:AAHM3STzsElX-rfvtl1-HmKLj-qCszUXfuM/getUpdates "HTTP/1.1 200 OK"
+2025-10-28 23:28:46,079 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-10-28 23:28:46,080 - telegram.ext.Application - INFO - Application.stop() complete
